@@ -1,12 +1,14 @@
 # paper
 
 ---
-- [noise lable](#noise lable)
+
+- [noise-lable](#noise-lable)
   - [Papers & Code](#papers--code)
-- [other paper](#other paper)
+- [other-paper](#other-paper)
+
 ---
 
-## noise lable
+## noise-lable
 
 ### Papers & Code
 
@@ -508,7 +510,7 @@
 
 * 2023-WACV - Adaptive Sample Selection for Robust Learning under Label Noise. [[Paper]](https://arxiv.org/abs/2106.15292) [[Code]](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)
 
-## other paper
+## other-paper
 * 2022-Arxiv - A LIGHT-WEIGHT, EFFECTIVE AND EFFICIENT MODEL FOR LABEL AGGREGATION IN CROWDSOURCING. [[Paper]](https://deepai.org/publication/a-light-weight-effective-and-efficient-model-for-label-aggregation-in-crowdsourcing) 
 
 * 2022-Arxiv - Soft Labels for Rapid Satellite Object Detection. [[Paper]](https://arxiv.org/abs/2212.00585)
