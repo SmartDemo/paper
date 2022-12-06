@@ -510,7 +510,10 @@
 
 * 2023-WACV - Adaptive Sample Selection for Robust Learning under Label Noise. [[Paper]](https://arxiv.org/abs/2106.15292) [[Code]](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)
 
+* 2022-Arxiv - CrossSplit: Mitigating Label Noise Memorization through Data Splitting. [[Paper]](https://arxiv.org/abs/2212.01674)
+
 ## other-paper
+
 * 2022-Arxiv - A LIGHT-WEIGHT, EFFECTIVE AND EFFICIENT MODEL FOR LABEL AGGREGATION IN CROWDSOURCING. [[Paper]](https://deepai.org/publication/a-light-weight-effective-and-efficient-model-for-label-aggregation-in-crowdsourcing) 
 
 * 2022-Arxiv - Soft Labels for Rapid Satellite Object Detection. [[Paper]](https://arxiv.org/abs/2212.00585)
