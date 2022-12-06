@@ -525,3 +525,7 @@
 * 2022-Arxiv - Category-Adaptive Label Discovery and Noise Rejection for Multi-label Image Recognition with Partial Positive Labels. [[Paper]](https://arxiv.org/abs/2211.07846)
 
 * 2022-Arxiv - FAN-Trans: Online Knowledge Distillation for Facial Action Unit Detection. [[Paper]](https://arxiv.org/abs/2211.06143)
+
+* 2019-ICLR - An Empirical Study of Example Forgetting during Deep Neural Network Learning. [[Paper]](https://arxiv.org/abs/1812.05159)
+
+* 2017-PMLR - A Closer Look at Memorization in Deep Networks. [[Paper]](https://arxiv.org/abs/1706.05394)
