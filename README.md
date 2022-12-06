@@ -504,8 +504,13 @@
 
 ### other paper
 * 2022-Arxiv - A LIGHT-WEIGHT, EFFECTIVE AND EFFICIENT MODEL FOR LABEL AGGREGATION IN CROWDSOURCING. [[Paper]](https://deepai.org/publication/a-light-weight-effective-and-efficient-model-for-label-aggregation-in-crowdsourcing) 
+
 * 2022-Arxiv - Soft Labels for Rapid Satellite Object Detection. [[Paper]](https://arxiv.org/abs/2212.00585)
+
 * 2022-Arxiv - Local Magnification for Data and Feature Augmentation. [[Paper]](https://arxiv.org/abs/2211.07859)
+
 * 2022-CVPR - Large Loss Matters in Weakly Supervised Multi-Label Classification. [[Paper]](https://arxiv.org/abs/2206.03740) [[Code]](https://github.com/snucml/LargeLossMatters)
+
 * 2022-Arxiv - Category-Adaptive Label Discovery and Noise Rejection for Multi-label Image Recognition with Partial Positive Labels. [[Paper]](https://arxiv.org/abs/2211.07846)
+
 * 2022-Arxiv - FAN-Trans: Online Knowledge Distillation for Facial Action Unit Detection. [[Paper]](https://arxiv.org/abs/2211.06143)
